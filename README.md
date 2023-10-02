@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saksham Singh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to working with Javascript Technologies
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning react-native
+- 💞️ I’m looking to working with Mobile/Javascript Technologies
 - 📫 You can reach me @officiallysaksham@gmail.com
 
 <!---
