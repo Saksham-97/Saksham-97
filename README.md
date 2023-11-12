@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saksham Singh
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to working with Mobile/Javascript Technologies
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Express and MongoDB
+- 💞️ I’m looking to working with Javascript Backend Technologies
 - 📫 You can reach me @officiallysaksham@gmail.com
 
 <!---
