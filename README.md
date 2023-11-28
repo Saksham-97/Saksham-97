@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saksham Singh
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Express and MongoDB
-- 💞️ I’m looking to working with Javascript Backend Technologies
+- 👀 I’m interested in Frontend Development & Javascript
+- 🌱 I’m currently learning React.Js
+- 💞️ I’m looking to working with Javascript Frontend Technologies
 - 📫 You can reach me @officiallysaksham@gmail.com
 
 <!---
